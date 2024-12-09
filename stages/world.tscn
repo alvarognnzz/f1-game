@@ -268,7 +268,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0493946, 0)
 curve = SubResource("Curve3D_5uxn5")
 
 [node name="Car" parent="CarPath" instance=ExtResource("8_wylll")]
-transform = Transform3D(-0.99986, 0, 0.0157869, 0, 0.999997, 0, -0.0157869, 0, -0.999861, -22.8176, 4.3869e-05, -0.184943)
+transform = Transform3D(-0.999859, 0, 0.0157869, 0, 0.999997, 0, -0.0157868, 0, -0.99986, -22.8176, 4.3869e-05, -0.184943)
 progress = 81.2253
 script = ExtResource("10_hq4hd")
 individual_progress = 0.5
@@ -290,7 +290,7 @@ script = ExtResource("10_hq4hd")
 individual_progress = 0.55
 
 [node name="Car2" parent="CarPath2" instance=ExtResource("8_wylll")]
-transform = Transform3D(-0.99986, 0, 0.0157869, 0, 0.999997, 0, -0.0157869, 0, -0.999862, -22.8176, 4.3869e-05, -0.184943)
+transform = Transform3D(-0.999859, 0, 0.0157869, 0, 0.999997, 0, -0.0157868, 0, -0.999861, -22.8176, 4.3869e-05, -0.184943)
 progress = 81.2253
 script = ExtResource("10_hq4hd")
 individual_progress = 0.5

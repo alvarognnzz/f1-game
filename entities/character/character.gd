@@ -1,5 +1,7 @@
 extends CharacterBody3D
 
+@onready var world: Node3D = $".."
+
 # exported nodes
 @export var head: Node3D
 @export var camera: Camera3D
